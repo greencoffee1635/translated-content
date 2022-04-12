@@ -586,6 +586,12 @@
       "ahcheqiu"
     ]
   },
+  "Glossary/Bezier_curve": {
+    "modified": "2020-11-06T23:22:34.372Z",
+    "contributors": [
+      "liguorain"
+    ]
+  },
   "Glossary/BiDi": {
     "modified": "2020-03-15T11:45:20.503Z",
     "contributors": [
@@ -651,12 +657,6 @@
     "modified": "2020-12-03T02:19:51.826Z",
     "contributors": [
       "LucioLu"
-    ]
-  },
-  "Glossary/Bézier_curve": {
-    "modified": "2020-11-06T23:22:34.372Z",
-    "contributors": [
-      "liguorain"
     ]
   },
   "Glossary/CDN": {
@@ -45904,56 +45904,6 @@
       "rogueduola",
       "tankhanleng",
       "shenhao"
-    ]
-  },
-  "conflicting/Learn/JavaScript/Asynchronous": {
-    "modified": "2020-12-08T07:27:41.218Z",
-    "contributors": [
-      "byrde",
-      "icetea_cover",
-      "rubyKC",
-      "shangruitong",
-      "PYGC",
-      "wangfangping",
-      "tjls"
-    ]
-  },
-  "conflicting/Learn/JavaScript/Asynchronous/Introducing": {
-    "modified": "2020-07-16T22:33:29.726Z",
-    "contributors": [
-      "alice201601",
-      "grape",
-      "HermitSun",
-      "oceanMIH"
-    ]
-  },
-  "conflicting/Learn/JavaScript/Asynchronous/Promises": {
-    "modified": "2020-12-08T06:58:32.883Z",
-    "contributors": [
-      "byrde",
-      "woniuxingdong",
-      "qwei",
-      "plainnany",
-      "jakio6",
-      "awarmy",
-      "cochn",
-      "wangfangping"
-    ]
-  },
-  "conflicting/Learn/JavaScript/Asynchronous_ae5a561b0ec11fc53c167201aa8af5df": {
-    "modified": "2020-08-14T06:09:20.310Z",
-    "contributors": [
-      "Pada",
-      "You2er",
-      "WinterCicada",
-      "zhangbig0",
-      "mizhon",
-      "yuqing521",
-      "Alendia",
-      "grape",
-      "wangfangping",
-      "puddlejumper26",
-      "oceanMIH"
     ]
   },
   "conflicting/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents": {

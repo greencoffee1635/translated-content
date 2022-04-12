@@ -1322,7 +1322,7 @@
 /fr/docs/Glossaire/Bootstrap	/fr/docs/Glossary/Bootstrap
 /fr/docs/Glossaire/Breadcrumb	/fr/docs/Glossary/Breadcrumb
 /fr/docs/Glossaire/Browsing_context	/fr/docs/Glossary/Browsing_context
-/fr/docs/Glossaire/Bézier_curve	/fr/docs/Glossary/Bézier_curve
+/fr/docs/Glossaire/Bézier_curve	/fr/docs/Glossary/Bezier_curve
 /fr/docs/Glossaire/CDN	/fr/docs/Glossary/CDN
 /fr/docs/Glossaire/CMS	/fr/docs/Glossary/CMS
 /fr/docs/Glossaire/CORS	/fr/docs/Glossary/CORS
@@ -1745,6 +1745,7 @@
 /fr/docs/Glossary/Accessibilité	/fr/docs/Glossary/Accessibility
 /fr/docs/Glossary/Attribut	/fr/docs/Glossary/Attribute
 /fr/docs/Glossary/Block/Block_(CSS)	/fr/docs/Glossary/Block/CSS
+/fr/docs/Glossary/Bézier_curve	/fr/docs/Glossary/Bezier_curve
 /fr/docs/Glossary/Client_hints	/fr/docs/Web/HTTP/Client_hints
 /fr/docs/Glossary/Gaia	/fr/docs/orphaned/Glossary/Gaia
 /fr/docs/Glossary/Gonk	/fr/docs/orphaned/Glossary/Gonk
@@ -3001,10 +3002,10 @@
 /fr/docs/Learn/CSS/Styling_text/Mise_en_forme_des_liens	/fr/docs/Learn/CSS/Styling_text/Styling_links
 /fr/docs/Learn/CSS/Styling_text/initiation-mise-en-forme-du-texte	/fr/docs/Learn/CSS/Styling_text/Fundamentals
 /fr/docs/Learn/Index	/fr/docs/conflicting/Learn
-/fr/docs/Learn/JavaScript/Asynchronous/Async_await	/fr/docs/conflicting/Learn/JavaScript/Asynchronous/Promises
-/fr/docs/Learn/JavaScript/Asynchronous/Choosing_the_right_approach	/fr/docs/conflicting/Learn/JavaScript/Asynchronous
-/fr/docs/Learn/JavaScript/Asynchronous/Concepts	/fr/docs/conflicting/Learn/JavaScript/Asynchronous/Introducing
-/fr/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals	/fr/docs/conflicting/Learn/JavaScript/Asynchronous_ae5a561b0ec11fc53c167201aa8af5df
+/fr/docs/Learn/JavaScript/Asynchronous/Async_await	/fr/docs/Learn/JavaScript/Asynchronous/Promises
+/fr/docs/Learn/JavaScript/Asynchronous/Choosing_the_right_approach	/fr/docs/Learn/JavaScript/Asynchronous
+/fr/docs/Learn/JavaScript/Asynchronous/Concepts	/fr/docs/Learn/JavaScript/Asynchronous/Introducing
+/fr/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals	/fr/docs/Learn/JavaScript/Asynchronous
 /fr/docs/Learn/JavaScript/First_steps/Testes_vos_competence:_Tableaux	/fr/docs/Learn/JavaScript/First_steps/Test_your_skills:_Arrays
 /fr/docs/Learn/JavaScript/First_steps/methode_chaine_utile	/fr/docs/Learn/JavaScript/First_steps/Useful_string_methods
 /fr/docs/Learn/JavaScript/First_steps/tableaux	/fr/docs/Learn/JavaScript/First_steps/Arrays
